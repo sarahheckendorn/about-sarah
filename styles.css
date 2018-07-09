@@ -4,10 +4,11 @@ body {
 }
 
 .h1 {
-	color: brown;
+	color: #e2710d;
 	font-family: "Helvetica Neue";
 	font-size: 55pt;
 	text-align: center;
+	text-shadow: rgba(0, 0, 0, 0.5) 5px 5px;
 }
 
 .img {
@@ -27,25 +28,27 @@ p {
 	font-size: 20px;
 	font-family: "Helvetica Neue";
 	color: antiquewhite;
+	text-align: justify;
+	padding-left: 40px;
+	padding-right: 40px;
 }
 
 .p1 {
 	display: inline-block;
 	position: relative;
 	top: 35px;
-	left: 33px;
-	}
+		}
 
 .p2 {
 	display: inline-block;
 	position: relative;
 	top: 20px;
-	left: 10px;
+
 	}
 
 .p3 {
 	display: inline-block;
 	position: relative;
 	top: 0px;
-	left: 10px;
+
 	}
