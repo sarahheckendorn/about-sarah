@@ -18,7 +18,7 @@ body {
 	left: 675px;
 }
 
-.p1{
+.p1 {
 	display: inline-block;
 	position: relative;
 	top: 35px;
@@ -26,7 +26,7 @@ body {
 	color: antiquewhite;
 }
 
-.p2{
+.p2 {
 	display: inline-block;
 	position: relative;
 	top: 20px;
@@ -34,7 +34,7 @@ body {
 	color: antiquewhite;
 }
 
-.p3{
+.p3 {
 	display: inline-block;
 	position: relative;
 	top: 0px;
