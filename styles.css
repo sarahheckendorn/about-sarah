@@ -23,26 +23,29 @@ body {
 	border-radius: 45px;
 }
 
+p {
+	font-size: 20px;
+	font-family: "Helvetica Neue";
+	color: antiquewhite;
+}
+
 .p1 {
 	display: inline-block;
 	position: relative;
 	top: 35px;
 	left: 33px;
-	color: antiquewhite;
-}
+	}
 
 .p2 {
 	display: inline-block;
 	position: relative;
 	top: 20px;
 	left: 10px;
-	color: antiquewhite;
-}
+	}
 
 .p3 {
 	display: inline-block;
 	position: relative;
 	top: 0px;
 	left: 10px;
-	color: antiquewhite;
-}
+	}
