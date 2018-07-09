@@ -1,0 +1,14 @@
+.h1 {
+	color: #098;
+	text-align: center;
+}
+
+.img {
+	width: 200px;
+	height: 300px;
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	left: 675px;
+}
+
