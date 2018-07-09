@@ -1,3 +1,9 @@
+body {
+	background-image: url("./images/background.jpeg");
+	display: inline-block;
+	position: relative;
+}
+
 .h1 {
 	color: #098;
 	text-align: center;
@@ -12,3 +18,26 @@
 	left: 675px;
 }
 
+.p1{
+	display: inline-block;
+	position: relative;
+	top: 35px;
+	left: 33px;
+	color: antiquewhite;
+}
+
+.p2{
+	display: inline-block;
+	position: relative;
+	top: 20px;
+	left: 10px;
+	color: antiquewhite;
+}
+
+.p3{
+	display: inline-block;
+	position: relative;
+	top: 0px;
+	left: 10px;
+	color: antiquewhite;
+}
